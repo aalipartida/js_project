@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #decefc;
+    font-size: 35px;
+    color: #45395c;
+}
+
+a:link {
+    color: #45395c;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #734eb8;
+}
+
+a:hover {
+    color: #45395c;}
+
+a:active {
+    color: #ba95ff;
+}
